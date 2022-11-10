@@ -45,6 +45,14 @@
         android:textAllCaps="false" />
 
     <Button
+        android:id="@+id/team_list_btn"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:backgroundTint="#2FC595"
+        android:text="Team List"
+        android:textAllCaps="false" />
+
+    <Button
         android:id="@+id/members_add_btn"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
